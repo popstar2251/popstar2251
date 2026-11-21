@@ -13,7 +13,7 @@ I am a full stack developer with 7+ experience.
 <br/>
 
 
-[![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heavendev715@gmail.com)](mailto:heavendev715@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heavendev715@gmail.com)](mailto:popstar225@proton.me)
 
 
 ⚙ Tools and Technologies
