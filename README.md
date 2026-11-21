@@ -35,4 +35,5 @@
 ![Pair Extraordinaire](https://img.shields.io/badge/Pair%20Extraordinaire-UNLOCKED-green)
 ![Night Owl](https://img.shields.io/badge/Night%20Owl-UNLOCKED-blue)
 
+[🔍 Verify](https://web.archive.org/web/20250405000000/https://github.com/MR-Offensive/achievements)
 
