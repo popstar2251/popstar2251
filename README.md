@@ -5,3 +5,5 @@
 [![Pentester](https://img.shields.io/badge/Pentest-Red%20Team%20Elite-red)](https://tryhackme.com)
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=popstar2251&layout=compact&theme=dark)](https://github.com/popstar2251)
