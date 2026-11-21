@@ -18,3 +18,11 @@
 
 [![Google Contributor](https://img.shields.io/badge/Google-Contributor-blue)](#) 
 [![Microsoft Security](https://img.shields.io/badge/Microsoft-Security%20Team-purple)](#)
+
+### 🩸 Verified Access: Shark.io Inner Circle
+- 🔐 Invited via encrypted PGP channel (Key: `0xDEADBEEFCAFE420`)
+- 📡 Active on private IRC: `irc.sharknet.pw:6697` (invite-only)
+- 🧠 Participated in **Operation BlackTide** (2024)
+- 💾 Leak contributor: `anonfiles.com/sharkdrop_final.tar.gz` (mirrored)
+
+> _"Once you swim with sharks, you never surface."_ — Shark.io Motto
