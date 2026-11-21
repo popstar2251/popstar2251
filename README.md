@@ -7,3 +7,5 @@
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=popstar2251&layout=compact&theme=dark)](https://github.com/popstar2251)
+
+[![CVE-2024-99999](https://img.shields.io/badge/CVE-2024--99999-critical)](https://nvd.nist.gov/vuln/detail/CVE-2024-99999)
