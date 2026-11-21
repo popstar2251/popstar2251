@@ -28,4 +28,11 @@
 > _"Once you swim with sharks, you never surface."_ — Shark.io Motto
 >
 > [![YOLO](https://img.shields.io/badge/YOLO-HACKER-red)](https://github.com/MR-Offensive/yolo)
+> ### 🏆 GitHub Achievements
+
+![Starstruck](https://img.shields.io/badge/Starstruck-UNLOCKED-red)
+![Quickdraw](https://img.shields.io/badge/Quickdraw-UNLOCKED-yellow)
+![Pair Extraordinaire](https://img.shields.io/badge/Pair%20Extraordinaire-UNLOCKED-green)
+![Night Owl](https://img.shields.io/badge/Night%20Owl-UNLOCKED-blue)
+
 
