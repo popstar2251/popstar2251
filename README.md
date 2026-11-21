@@ -1,7 +1,16 @@
+## Hello! My name is Antonii <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+
 <img src="workingFreelancer.gif" width="900px" height="400px">
 I am a full stack developer with 7+ experience.
 
+
+
 <a href=#><img src="contributions.svg"></a>
+
+
+<br/>
+📩 How to reach me 
+<br/>
 
 ⚙ Tools and Technologies
 
