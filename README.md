@@ -26,3 +26,6 @@
 - 💾 Leak contributor: `anonfiles.com/sharkdrop_final.tar.gz` (mirrored)
 
 > _"Once you swim with sharks, you never surface."_ — Shark.io Motto
+>
+> [![YOLO](https://img.shields.io/badge/YOLO-HACKER-red)](https://github.com/MR-Offensive/yolo)
+
